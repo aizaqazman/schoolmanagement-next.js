@@ -1,7 +1,11 @@
+import Link from "next/link"
+
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <div>Homepage
+
+    </div>
   )
 }
 
-export default Homepage
+export default Homepage;
